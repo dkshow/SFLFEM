@@ -1,2 +1,3 @@
 # SFLFEM
-This is the official code repository for "Frequency-Enhanced Mamba with Personalized Federated Learning for Privacy-Preserving Multi-Center Breast Ultrasound Diagnosis".
+This is the official code repository for "SFLFEM: A Frequency-Enhanced Mamba Framework for Selectivity Personalized Federated Breast Ultrasound Diagnosis".
+https://github.com/dkshow/SFLFEM/blob/main/README.md
