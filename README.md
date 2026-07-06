@@ -58,6 +58,4 @@ python evaluate.py --config configs/sflfem.yaml --checkpoint best_model.pth
 
 
 ## Contact
-For questions, please contact Xu He ([Your Email]).
-
-For questions, please contact [Your Name] ([Your Email]).
+For questions, please contact Xu He (hxwho123321@gmail.com).
