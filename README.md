@@ -21,7 +21,7 @@ SFLFEM is a frequency-enhanced Mamba framework designed for personalized federat
 
 ## Requirements
 
-* Python 3.8
+* Python 3.10
 * PyTorch
 * CUDA
 * NumPy
