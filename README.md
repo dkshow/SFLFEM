@@ -1,27 +1,3 @@
-SFLFEM/
-├── README.md
-├── requirements.txt
-├── configs/
-│   └── sflfem_bus.yaml
-├── datasets/
-│   └── README.md
-├── sflfem/
-│   ├── models/
-│   ├── federated/
-│   ├── datasets/
-│   ├── trainers/
-│   └── utils/
-├── scripts/
-│   ├── train_federated.sh
-│   ├── test_global.sh
-│   └── test_personalized.sh
-├── checkpoints/
-│   └── README.md
-├── figures/
-│   └── framework.png
-└── LICENSE
-
-
 # SFLFEM
 
 Official code repository for **“SFLFEM: A Frequency-Enhanced Mamba Framework for Selectivity Personalized Federated Breast Ultrasound Diagnosis.”**
