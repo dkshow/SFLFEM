@@ -55,19 +55,9 @@ python train.py --config configs/sflfem.yaml
 python evaluate.py --config configs/sflfem.yaml --checkpoint best_model.pth
 ```
 
-## Citation
 
-If you find this repository useful, please consider citing our paper:
-
-```bibtex
-@article{sflfem,
-  title={SFLFEM: A Frequency-Enhanced Mamba Framework for Selectivity Personalized Federated Breast Ultrasound Diagnosis},
-  author={},
-  journal={},
-  year={}
-}
-```
 
 ## Contact
+For questions, please contact Xu He ([Your Email]).
 
 For questions, please contact [Your Name] ([Your Email]).
