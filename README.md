@@ -21,13 +21,14 @@ SFLFEM is a frequency-enhanced Mamba framework designed for personalized federat
 
 ## Requirements
 
-* Python 3.10
-* PyTorch
-* CUDA
-* NumPy
-* scikit-learn
-* OpenCV
-* einops
+Please install the required packages with:
+
+```bash
+pip install -r requirements.txt
+```
+
+The main dependencies include PyTorch, Torchvision, timm, einops, transformers, scikit-learn, SciPy, NumPy, Pandas, TensorBoard, Matplotlib, and SimpleITK.
+
 
 ## Datasets
 
