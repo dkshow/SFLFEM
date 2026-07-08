@@ -1,6 +1,6 @@
 # SFLFEM
 
-**SFLFEM: A Frequency-Enhanced Mamba Framework for Selectivity Personalized Federated Breast Ultrasound Diagnosis**
+**SFLFEM: A Frequency-Enhanced Mamba Framework for Selective Personalized Federated Breast Ultrasound Diagnosis**
 
 ## Overview
 
